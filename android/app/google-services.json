@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324907900344",
+    "firebase_url": "https://nanobits-83f2b.firebaseio.com",
+    "project_id": "nanobits-83f2b",
+    "storage_bucket": "nanobits-83f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324907900344:android:faed951d25f7cf54b0834d",
+        "android_client_info": {
+          "package_name": "com.example.musicApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324907900344-u4e9ubn42p6ijoicvvesra8mcg77rb04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicApp",
+            "certificate_hash": "43da9bc104679fe047be85b3cd44f24a5ec6bd39"
+          }
+        },
+        {
+          "client_id": "324907900344-7tct4el2efqsf5apauqu7t9qakm6gfjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmuTsUy6uflHvp7PhAFQwpptlMOCHRK1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324907900344-7tct4el2efqsf5apauqu7t9qakm6gfjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
